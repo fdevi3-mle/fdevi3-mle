@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fdevi3-mle
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning
-- 🌱 I’m currently learning at Data Scientest 
+- 🌱 I’m currently learning at DataScientest Course and am done with way below par course.
+-  [MLOPS GITLAB](https://gitlab.com/datascientest-exams)
 - 📫 How to reach me : [fdevi3](https://keybase.io/fdevi3)
 
 <!---
